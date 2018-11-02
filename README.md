@@ -4,6 +4,7 @@ Create your own chart from Afterburner logs
 Quick start
 
 Vous êtes chaud ? Voici un résumé de ce qu'il faut faire pour utiliser Grafterburner
+Etape 0 récuperez l'archive de grafterburner, Le programme doit fonctionner immédiatement.
 
 Etape 1
 Activer toute les métriques qui vous intéresse dans Afterburner
